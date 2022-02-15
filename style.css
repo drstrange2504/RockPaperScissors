@@ -22,7 +22,7 @@ h1{
     border-radius: 4px;
     text-align: center;
     width: 200px;
-   font-size: 30px;
+   font-size: 50px;
    padding: 15px 20px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    position: relative;
@@ -31,21 +31,21 @@ h1{
 .badge{
     background-color: greenyellow;
     font-size: 20px;
-    padding: 2px px;
+    padding: 2px 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #user-label{
     position: absolute;
     top: 25px;
-    left: -35px;
+    left: -80px;
    
 
 }
 #computer-label{
     position: absolute;
     top: 25px;
-    right: -65px;
+    right: -130px;
 
 }
 .result{
@@ -98,7 +98,7 @@ h1{
     text-align: center;
     color:black;
     font-style: oblique;
-    font-size: 20px;
+    font-size: 30px;
     padding-top: 2px;
     font-family:'Courier New', Courier, monospace;
     
